@@ -1,3 +1,5 @@
+package ai03266;
+
 import java.util.Scanner;
 
 public class BjjCalculator {
