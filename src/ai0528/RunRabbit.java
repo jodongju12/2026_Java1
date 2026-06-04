@@ -3,7 +3,7 @@ package ai0528;
 
 public class RunRabbit {
     public static void main(String[] args) {
-        RunRabbit rabbit = new Rabbit();
+        RunRabbit rabbit = new rabbit();
 
 
 
